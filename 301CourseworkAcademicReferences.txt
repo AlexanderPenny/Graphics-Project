@@ -1,0 +1,15 @@
+height2.png comes from https://manticorp.github.io/unrealheightmap/instructions.html
+
+tiles_0112 comes from https://www.texturecan.com/details/598/
+
+concrete0006 comes from https://www.texturecan.com/details/58/
+
+others0029 comes from https://www.texturecan.com/details/563/
+
+asphalt_0004 comes from https://www.texturecan.com/details/289/
+
+StreetLamp.obj comes from https://www.turbosquid.com/3d-models/3d-street-lamp-2210777
+
+car.obj comes from https://www.turbosquid.com/3d-models/3d-police-car-2260107
+
+rain_drips.png & rain_drip_mask.png is from https://www.bencloward.com/youtube/rain_drips.tga and https://www.bencloward.com/youtube/rain_drip_mask.tga
