@@ -12,6 +12,9 @@ Copyright 2026 Alexander L. Penny
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
+
+--------------------
+GitHub Link to project: https://github.com/AlexanderPenny/Graphics-Project/
 */
 
 #include "TextureShader.h"
