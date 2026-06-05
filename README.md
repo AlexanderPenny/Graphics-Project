@@ -66,7 +66,3 @@ For a dive into the graphical test cases demonstration:
 ## 📦 Assets & References
 
 See [301CourseworkAcademicReferences.txt](https://github.com/AlexanderPenny/Graphics-Project/blob/main/301CourseworkAcademicReferences.txt) for a full list of assets and references used in this project.
-
-## 📜 License
-
-Copyright 2026 Alexander L. Penny — licensed under the Apache License 2.0. See [LICENSE](LICENSE) for details.
